@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075804617459",
+    "project_id": "readsms-3ff88",
+    "storage_bucket": "readsms-3ff88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075804617459:android:0b38b98fa09a36b8209586",
+        "android_client_info": {
+          "package_name": "com.example.inboxmsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgTVSaVqBZKZG3tHYuzUjRrvTw-CSRtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
